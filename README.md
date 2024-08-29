@@ -21,7 +21,6 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 
 ## 🏆 Competitive Programming Stats
 - **LeetCode**: [![Thesept_kid's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thesept_kid&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
-- **CodeChef**: [![CodeChef Rating](https://codechef-api.vercel.app/handle/the_sept_kid)](https://www.codechef.com/users/the_sept_kid)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-7136811b0/)
