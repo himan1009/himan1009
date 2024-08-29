@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hi, I'm Himanshu Kumar!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=himan1009&color=green)
 
 ## 🚀 About Me
 I'm a tech enthusiast passionate about coding and innovation. I specialize in Python and C++, and I'm constantly exploring new technologies.
@@ -12,7 +12,7 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-blue)
 
 ## 📊 GitHub Stats
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himan1009&show_icons=true&theme=radical)
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your_username&theme=react-dark)
