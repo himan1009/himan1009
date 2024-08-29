@@ -23,6 +23,9 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 ## 🏆 Competitive Programming Stats
 [![Thesept_kid's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thesept_kid&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
+## 🚀 Projects
+- **MERN Food Ordering App**: [Check it out!](https://mern-food-ordering-app-frontend-i20s.onrender.com/)
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-7136811b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/himan1009)
