@@ -33,9 +33,6 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/himan1009)
 [![Email](https://img.shields.io/badge/Email-lightgrey?logo=gmail&logoColor=red)](mailto:shishusha922@gmail.com)
 
-## 🎨 My GitHub Contribution Graph
-![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=himan1009&theme=react-dark&hide_border=true)
-
 ## 🧑‍💻 GitHub Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himan1009&theme=github)
 
