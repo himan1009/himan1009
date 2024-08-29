@@ -26,3 +26,4 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-7136811b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/himan1009)
+[![Email](https://img.shields.io/badge/Email-lightgrey?logo=gmail&logoColor=red)](mailto:shishusha922@gmail.com)
