@@ -25,6 +25,8 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 
 ## 🚀 Projects
 - **MERN Food Ordering App**: [Check it out!](https://mern-food-ordering-app-frontend-i20s.onrender.com/)
+- **Chat Application**: [View on GitHub](https://github.com/himan1009/CHAT_APP_NEW)
+- **Video Streaming Backend**: [View on GitHub](https://github.com/himan1009/BACKEND_PROJECT)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-7136811b0/)
