@@ -15,10 +15,10 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himan1009&show_icons=true&theme=radical)
 
 ## 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your_username&theme=react-dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=himan1009&theme=react-dark)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himan1009)
 
 <!--
 **himan1009/himan1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
