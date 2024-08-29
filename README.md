@@ -20,7 +20,7 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 - **CodeChef**: [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/the_sept_kid)
 
 ## 🏆 Competitive Programming Stats
-- **LeetCode**: ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=thesept_kid&theme=dark)
+- **LeetCode**: ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=thesept_kid&theme=dark)
 - **CodeChef**: [![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_kid?logo=true)](https://www.codechef.com/users/the_sept_kid)
 
 ## 🌐 Connect with Me
