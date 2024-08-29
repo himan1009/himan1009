@@ -17,16 +17,12 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 
 ## 💻 Coding Profiles
 - **LeetCode**: [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/thesept_kid)
-- **CodeChef**: [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/the_sept_guy)
+- **CodeChef**: [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/the_sept_kid)
 
 ## 🏆 Competitive Programming Stats
 - **LeetCode**: ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=thesept_kid&theme=dark)
-- **CodeChef**: [![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_guy?logo=true)](https://www.codechef.com/users/the_sept_guy)
-
-## 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=himan1009&theme=react-dark)
+- **CodeChef**: [![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_kid?logo=true)](https://www.codechef.com/users/the_sept_kid)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your_twitter_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-7136811b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/himan1009)
