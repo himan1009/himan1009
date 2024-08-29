@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Himanshu Kumar!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=himan1009&color=green)
@@ -10,27 +9,24 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 ![C++](https://img.shields.io/badge/Code-C++-blue)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-blue)
+![Java](https://img.shields.io/badge/Code-Java-orange)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
 ## 📊 GitHub Stats
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himan1009&show_icons=true&theme=radical)
+
+## 💻 Coding Profiles
+- **LeetCode**: [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/thesept_kid)
+- **CodeChef**: [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/the_sept_guy)
+
+## 🏆 Competitive Programming Stats
+- **LeetCode**: ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=thesept_kid&theme=dark)
+- **CodeChef**: [![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_guy?logo=true)](https://www.codechef.com/users/the_sept_guy)
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=himan1009&theme=react-dark)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himan1009)
-
-<!--
-**himan1009/himan1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your_twitter_profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/himan1009)
