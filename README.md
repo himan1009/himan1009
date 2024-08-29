@@ -34,5 +34,5 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in Py
 [![Email](https://img.shields.io/badge/Email-lightgrey?logo=gmail&logoColor=red)](mailto:shishusha922@gmail.com)
 
 ## 🧑‍💻 GitHub Profile Summary
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himan1009&theme=github)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himan1009&theme=dark)
 
