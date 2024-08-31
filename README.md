@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=himan1009&color=green)
 
 ## 🚀 About Me
-I'm a tech enthusiast passionate about coding and innovation. I specialize in Python and C++, and I'm constantly exploring new technologies.
+I'm a tech enthusiast passionate about coding and innovation. I specialize in C++ and Python, and I'm constantly exploring new technologies.
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Code-Python-blue)
