@@ -9,7 +9,6 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 ![C++](https://img.shields.io/badge/Code-C++-blue)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-blue)
-![Java](https://img.shields.io/badge/Code-Java-orange)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
 ## 📊 GitHub Stats
