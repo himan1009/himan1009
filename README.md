@@ -20,7 +20,6 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 - **Codeforces**: [![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/thesept_kid)
 
 ## 🏆 Competitive Programming Stats
-[![Thesept_kid's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thesept_kid&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thesept_kid?ext=contest)
 
 ## 🚀 Projects
