@@ -21,6 +21,7 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 
 ## 🏆 Competitive Programming Stats
 [![Thesept_kid's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thesept_kid&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/thesept_kid?ext=contest)
 
 ## 🚀 Projects
 - **MERN Food Ordering App**: [Check it out!](https://mern-food-ordering-app-frontend-i20s.onrender.com/)
@@ -34,6 +35,3 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 
 ## 🧑‍💻 GitHub Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himan1009&theme=dark)
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/thesept_kid?ext=contest)
