@@ -35,4 +35,7 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 ## 🧑‍💻 GitHub Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himan1009&theme=dark)
 
-![CodeChef Rating](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=.rating&url=https://competitive-programming-api-url-placeholder.com/codechef/the_sept_kid)
+
+
+
+![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_kid)
