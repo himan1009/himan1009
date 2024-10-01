@@ -37,5 +37,12 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 
 
 
+## CodeChef Stats
 
-![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_kid)
+<div align="center">
+  
+| Contests Attended | Rating | Problems Solved |
+|-------------------|--------|-----------------|
+| ![CodeChef Contests](https://cp-logo.vercel.app/codechef/the_sept_kid?info=contest) | ![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_kid?info=rating) | ![CodeChef Solved](https://cp-logo.vercel.app/codechef/the_sept_kid?info=solved) |
+
+</div>
