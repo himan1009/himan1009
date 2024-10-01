@@ -35,3 +35,9 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 ## 🧑‍💻 GitHub Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himan1009&theme=dark)
 
+
+
+
+![LeetCode Rating](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode%20Rating&query=rating&url=https://your-api-endpoint.com/leetcode-stats)
+
+
