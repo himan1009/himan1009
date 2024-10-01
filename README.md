@@ -38,6 +38,7 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 
 
 
-![LeetCode Rating](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode%20Rating&query=rating&url=https://your-api-endpoint.com/leetcode-stats)
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/thesept_kid.svg)](https://leetcode.com/thesept_kid)
+
 
 
