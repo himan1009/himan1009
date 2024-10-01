@@ -20,7 +20,16 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 - **Codeforces**: [![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/thesept_kid)
 
 ## 🏆 Competitive Programming Stats
+## LEETCODE STATS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thesept_kid?ext=contest)
+## CodeChef Stats
+<div align="left">
+  
+| Contests Attended | Rating | Problems Solved |
+|-------------------|--------|-----------------|
+| 08                | ![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_kid?info=rating) | 150             |
+
+</div>
 
 ## 🚀 Projects
 - **MERN Food Ordering App**: [Check it out!](https://mern-food-ordering-app-frontend-i20s.onrender.com/)
@@ -34,16 +43,4 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 
 ## 🧑‍💻 GitHub Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himan1009&theme=dark)
-
-
-
-## CodeChef Stats
-
-<div align="right">
-  
-| Contests Attended | Rating | Problems Solved |
-|-------------------|--------|-----------------|
-| 08                | ![CodeChef Rating](https://cp-logo.vercel.app/codechef/the_sept_kid?info=rating) | 150             |
-
-</div>
 
