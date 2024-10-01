@@ -39,7 +39,7 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 
 ## CodeChef Stats
 
-<div align="center">
+<div align="right">
   
 | Contests Attended | Rating | Problems Solved |
 |-------------------|--------|-----------------|
