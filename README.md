@@ -28,6 +28,26 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 ![ETL](https://img.shields.io/badge/Pipeline-ETL-red)
 ![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-purple)
 
+---
+
+## 📦 Data Engineering Experience
+
+I have hands-on experience designing and building scalable **data pipelines** using modern big data and cloud technologies.  
+My responsibilities have included:
+
+- Building ETL pipelines using **PySpark** and **AWS Glue**
+- Working with **Kafka** for real-time data streaming and **event-driven architecture**
+- Monitoring and handling sensitive employee communication data with strike tracking
+- Using **PostgreSQL** for structured staging and backup tables
+- Automating workflows using **Apache Airflow**
+- Storing and managing large data files in **AWS S3** and **Parquet format**
+- Creating fact-dimension models with **Hive** and **Data Warehouse** principles
+- Writing complex **SQL** queries for reporting, validation, and transformations
+
+These experiences have given me a strong foundation in **data ingestion**, **transformation**, and **orchestration** using production-grade tools.
+
+---
+
 ## 📊 GitHub Stats
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himan1009&show_icons=true&theme=radical)
 
