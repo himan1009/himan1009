@@ -70,7 +70,7 @@ These experiences have given me a strong foundation in **data ingestion**, **tra
 </div>
 
 ## 🚀 Projects
-- **Employee Data Pipeline and Compliance Engine**: [View on GitHub](https://github.com/himan1009/EMPLOYEE_DATA_PIPELINE) <!-- 🔁 Replace this with your actual GitHub link -->
+- **Employee Data Pipeline and Compliance Engine**: [View on GitHub](https://github.com/himan1009/Employee_management_data) <!-- 🔁 Replace this with your actual GitHub link -->
   
   > A scalable data pipeline built with **Kafka**, **PySpark**, **AWS Glue**, and **PostgreSQL** that monitors real-time employee communication for compliance violations. Automatically tracks flagged words, assigns strikes, and updates salary penalties. Optimized for real-time ingestion, transformation, and alerting.
 
