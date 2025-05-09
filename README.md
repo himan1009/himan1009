@@ -6,10 +6,27 @@
 I'm a tech enthusiast passionate about coding and innovation. I specialize in C++ and Python, and I'm constantly exploring new technologies.
 
 ## 🛠️ Skills
+
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 ![C++](https://img.shields.io/badge/Code-C++-blue)
-![GitHub](https://img.shields.io/badge/Tool-GitHub-blue)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+
+### 🔧 Tools & Platforms
+![GitHub](https://img.shields.io/badge/Tool-GitHub-blue)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+![Kafka](https://img.shields.io/badge/Streaming-Kafka-4b4b4b)
+![Glue](https://img.shields.io/badge/AWS-Glue-blueviolet)
+![S3](https://img.shields.io/badge/AWS-S3-orange)
+![PySpark](https://img.shields.io/badge/BigData-PySpark-lightgrey)
+![Hadoop](https://img.shields.io/badge/BigData-Hadoop-darkblue)
+![Hive](https://img.shields.io/badge/BigData-Hive-yellow)
+![SQL](https://img.shields.io/badge/Query-SQL-blue)
+![Airflow](https://img.shields.io/badge/Workflow-Airflow-darkgreen)
+![ETL](https://img.shields.io/badge/Pipeline-ETL-red)
+![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-purple)
 
 ## 📊 GitHub Stats
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himan1009&show_icons=true&theme=radical)
@@ -20,9 +37,10 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 - **Codeforces**: [![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/thesept_kid)
 
 ## 🏆 Competitive Programming Stats
-## LEETCODE STATS
+### LEETCODE STATS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thesept_kid?ext=contest)
-## CodeChef Stats
+
+### CodeChef Stats
 <div align="left">
   
 | Contests Attended | Rating | Problems Solved |
@@ -43,4 +61,3 @@ I'm a tech enthusiast passionate about coding and innovation. I specialize in C+
 
 ## 🧑‍💻 GitHub Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himan1009&theme=dark)
-
