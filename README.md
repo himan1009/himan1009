@@ -70,6 +70,10 @@ These experiences have given me a strong foundation in **data ingestion**, **tra
 </div>
 
 ## 🚀 Projects
+- **Employee Data Pipeline and Compliance Engine**: [View on GitHub](https://github.com/himan1009/EMPLOYEE_DATA_PIPELINE) <!-- 🔁 Replace this with your actual GitHub link -->
+  
+  > A scalable data pipeline built with **Kafka**, **PySpark**, **AWS Glue**, and **PostgreSQL** that monitors real-time employee communication for compliance violations. Automatically tracks flagged words, assigns strikes, and updates salary penalties. Optimized for real-time ingestion, transformation, and alerting.
+
 - **MERN Food Ordering App**: [Check it out!](https://mern-food-ordering-app-frontend-i20s.onrender.com/)
 - **Chat Application**: [View on GitHub](https://github.com/himan1009/CHAT_APP_NEW)
 - **Video Streaming Backend**: [View on GitHub](https://github.com/himan1009/BACKEND_PROJECT)
